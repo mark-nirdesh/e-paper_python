@@ -100,5 +100,5 @@ Hurray!! image is on the colour e-paper module.
 <li>Select your desire image and upload it on the e-paper module</li>
 <li>You can make your custom code for different waveshare e-paper modules.</li>
 <li>All codes used are from https://github.com/waveshare/e-Paper
-https://retailresponsecouk-my.sharepoint.com/:x:/g/personal/nirdesh_sagathia_retail-response_co_uk/Ee4p8X4V5ARMuguqhVl1c8MBWCO-m8qbaJYzmIWcwTN9Dw?e=TOM4DN&nav=MTVfe0JDQUU3QzdBLUIwMTctNDNEQS05MTg2LUUxQTc5NzA2NkIwRn0</li> 
+https://retailresponsecouk-my.sharepoint.com/:x:/g/personal/nirdesh_sagathia_retail-response_co_uk/Ee4p8X4V5ARMuguqhVl1c8MBsaqvEq-rmBZFjFd_0WEZaA?e=2zfSsJ</li> 
 </ol>
